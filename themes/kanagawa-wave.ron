@@ -1,0 +1,27 @@
+// Kanagawa Wave
+// https://github.com/kanagawa-community/gitui
+(
+    selected_tab: Some("#7e9cd8"),
+    command_fg: Some("#dcd7ba"),
+    selection_bg: Some("#223249"),
+    selection_fg: Some("#dcd7ba"),
+    cmdbar_bg: Some("#16161d"),
+    disabled_fg: Some("#727169"),
+    diff_line_add: Some("#76946a"),
+    diff_line_delete: Some("#c34043"),
+    diff_file_added: Some("#76946a"),
+    diff_file_removed: Some("#c34043"),
+    diff_file_moved: Some("#957fb8"),
+    diff_file_modified: Some("#dca561"),
+    commit_hash: Some("#957fb8"),
+    commit_time: Some("#7fb4ca"),
+    commit_author: Some("#98bb6c"),
+    danger_fg: Some("#e82424"),
+    push_gauge_bg: Some("#223249"),
+    push_gauge_fg: Some("#7e9cd8"),
+    tag_fg: Some("#ffa066"),
+    branch_fg: Some("#e6c384"),
+    block_title_focused: Some("#7e9cd8"),
+    use_selection_fg: Some(false),
+    syntax: Some("kanagawa-wave"),
+)
