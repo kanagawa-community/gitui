@@ -1,0 +1,27 @@
+// Kanagawa Dragon
+// https://github.com/kanagawa-community/gitui
+(
+    selected_tab: Some("#8ba4b0"),
+    command_fg: Some("#c5c9c5"),
+    selection_bg: Some("#223249"),
+    selection_fg: Some("#c5c9c5"),
+    cmdbar_bg: Some("#0d0c0c"),
+    disabled_fg: Some("#737c73"),
+    diff_line_add: Some("#76946a"),
+    diff_line_delete: Some("#c34043"),
+    diff_file_added: Some("#76946a"),
+    diff_file_removed: Some("#c34043"),
+    diff_file_moved: Some("#8992a7"),
+    diff_file_modified: Some("#dca561"),
+    commit_hash: Some("#8992a7"),
+    commit_time: Some("#949fb5"),
+    commit_author: Some("#8a9a7b"),
+    danger_fg: Some("#e82424"),
+    push_gauge_bg: Some("#223249"),
+    push_gauge_fg: Some("#8ba4b0"),
+    tag_fg: Some("#b6927b"),
+    branch_fg: Some("#c4b28a"),
+    block_title_focused: Some("#8ba4b0"),
+    use_selection_fg: Some(false),
+    syntax: Some("kanagawa-dragon"),
+)
